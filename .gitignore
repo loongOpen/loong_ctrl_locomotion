@@ -1,0 +1,21 @@
+build
+build_x64
+build_a64
+build_arm64
+build_x64_sim
+build_x64_robot
+build_a64_sim
+build_a64_robot
+
+nabo_output
+# third_party
+
+.vscode
+log
+
+tools/py_plot.py
+py_plot.py
+
+*.txt
+!CMakeLists.txt
+*.ini
