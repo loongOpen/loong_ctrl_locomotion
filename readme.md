@@ -1,4 +1,4 @@
-Copyright 2025 国地共建人形机器人创新中心/人形机器人（上海）有限公司, https://www.openloong.net/
+Copyright 2025 人形机器人（上海）有限公司, https://www.openloong.net/
 
 # 简介
 
@@ -9,6 +9,8 @@ OpenLoong framework中locomotion主控制算法组件
 所有常规操作（编译、运行）在tools内通过脚本完成！
 
 不需要自己命令行编译！
+
+* 编译：./make.sh [参数]，参数：xs、xr、as、ar（含义见脚本内），生成可执行文件于nabo_output目录内
 
 # 框架核心思想：隔离！
 
